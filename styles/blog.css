@@ -30,3 +30,14 @@
     margin: auto;
 }
 
+.box {
+    display: inline-flex;
+    padding: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 16px;
+    background: #131318; position: relative;
+    text-align: center;
+    margin: auto;
+}
