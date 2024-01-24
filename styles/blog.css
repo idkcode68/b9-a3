@@ -39,5 +39,5 @@
     border-radius: 16px;
     background: #131318; position: relative;
     text-align: center;
-    margin: auto;
+    margin: auto; left: 800px; top: -250px;
 }
